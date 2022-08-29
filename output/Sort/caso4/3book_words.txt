@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "ortografia": 21
+
+ Numero de Ocorrencias da palavra "não": 17
+
+ Numero de Ocorrencias da palavra "para": 16
+
+ Numero de Ocorrencias da palavra "acentuação": 15
+
+ Numero de Ocorrencias da palavra "sílaba": 14
+
+ Numero de Ocorrencias da palavra "são": 12
+
+ Numero de Ocorrencias da palavra "portuguesa": 12
+
+ Numero de Ocorrencias da palavra "língua": 12
+
+ Numero de Ocorrencias da palavra "vogal": 11
+
+ Numero de Ocorrencias da palavra "como": 11
+
+ Numero de Ocorrencias da palavra "vocábulo": 10
+
+ Numero de Ocorrencias da palavra "vocábulos": 10
+
+ Numero de Ocorrencias da palavra "acento": 8
+
+ Numero de Ocorrencias da palavra "teem": 8
+
+ Numero de Ocorrencias da palavra "mais": 7
+
+ Numero de Ocorrencias da palavra "escrita": 6
+
+ Numero de Ocorrencias da palavra "aínda": 6
+
+ Numero de Ocorrencias da palavra "tónica": 6
+
+ Numero de Ocorrencias da palavra "gráfico": 6
+
+ Numero de Ocorrencias da palavra "marcada": 5
+
+ Numero de Ocorrencias da palavra "cuja": 5
+
+ Numero de Ocorrencias da palavra "princípios": 5
+
+ Numero de Ocorrencias da palavra "esta": 5
+
+ Numero de Ocorrencias da palavra "êste": 5
+
+ Numero de Ocorrencias da palavra "quem": 5
+
+ Numero de Ocorrencias da palavra "todos": 5
+
+ Numero de Ocorrencias da palavra "todo": 5
+
+ Numero de Ocorrencias da palavra "evolução": 5
+
+ Numero de Ocorrencias da palavra "toda": 5
+
+ Numero de Ocorrencias da palavra "seja": 4
+
+ Numero de Ocorrencias da palavra "nós": 4
+
+ Numero de Ocorrencias da palavra "glotolójica": 4
+
+ Numero de Ocorrencias da palavra "quando": 4
+
+ Numero de Ocorrencias da palavra "qualquer": 4
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "abreu": 4
+
+ Numero de Ocorrencias da palavra "exemplos": 4
+
+ Numero de Ocorrencias da palavra "plurais": 4
+
+ Numero de Ocorrencias da palavra "enunciação": 4
+
+ Numero de Ocorrencias da palavra "vianna": 4
+
+ Numero de Ocorrencias da palavra "terminados": 4
+
+ Numero de Ocorrencias da palavra "grafia": 4
+
+ Numero de Ocorrencias da palavra "pode": 4
+
+ Numero de Ocorrencias da palavra "modulação": 4
+
+ Numero de Ocorrencias da palavra "pelo": 4
+
+ Numero de Ocorrencias da palavra "sempre": 4
+
+ Numero de Ocorrencias da palavra "será": 4
+
+ Numero de Ocorrencias da palavra "essa": 4
+
+ Numero de Ocorrencias da palavra "gráfica": 4
+
+ Numero de Ocorrencias da palavra "linguajem": 3
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "ortografia": 21
+
+ Numero de Ocorrencias da palavra "não": 17
+
+ Numero de Ocorrencias da palavra "para": 16
+
+ Numero de Ocorrencias da palavra "acentuação": 15
+
+ Numero de Ocorrencias da palavra "sílaba": 14
+
+ Numero de Ocorrencias da palavra "são": 12
+
+ Numero de Ocorrencias da palavra "portuguesa": 12
+
+ Numero de Ocorrencias da palavra "língua": 12
+
+ Numero de Ocorrencias da palavra "vogal": 11
+
+ Numero de Ocorrencias da palavra "como": 11
+
+ Numero de Ocorrencias da palavra "vocábulo": 10
+
+ Numero de Ocorrencias da palavra "vocábulos": 10
+
+ Numero de Ocorrencias da palavra "acento": 8
+
+ Numero de Ocorrencias da palavra "teem": 8
+
+ Numero de Ocorrencias da palavra "mais": 7
+
+ Numero de Ocorrencias da palavra "escrita": 6
+
+ Numero de Ocorrencias da palavra "aínda": 6
+
+ Numero de Ocorrencias da palavra "tónica": 6
+
+ Numero de Ocorrencias da palavra "gráfico": 6
+
+ Numero de Ocorrencias da palavra "marcada": 5
+
+ Numero de Ocorrencias da palavra "cuja": 5
+
+ Numero de Ocorrencias da palavra "princípios": 5
+
+ Numero de Ocorrencias da palavra "esta": 5
+
+ Numero de Ocorrencias da palavra "êste": 5
+
+ Numero de Ocorrencias da palavra "quem": 5
+
+ Numero de Ocorrencias da palavra "todos": 5
+
+ Numero de Ocorrencias da palavra "todo": 5
+
+ Numero de Ocorrencias da palavra "evolução": 5
+
+ Numero de Ocorrencias da palavra "toda": 5
+
+ Numero de Ocorrencias da palavra "seja": 4
+
+ Numero de Ocorrencias da palavra "nós": 4
+
+ Numero de Ocorrencias da palavra "glotolójica": 4
+
+ Numero de Ocorrencias da palavra "quando": 4
+
+ Numero de Ocorrencias da palavra "qualquer": 4
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "abreu": 4
+
+ Numero de Ocorrencias da palavra "exemplos": 4
+
+ Numero de Ocorrencias da palavra "plurais": 4
+
+ Numero de Ocorrencias da palavra "enunciação": 4
+
+ Numero de Ocorrencias da palavra "vianna": 4
+
+ Numero de Ocorrencias da palavra "terminados": 4
+
+ Numero de Ocorrencias da palavra "grafia": 4
+
+ Numero de Ocorrencias da palavra "pode": 4
+
+ Numero de Ocorrencias da palavra "modulação": 4
+
+ Numero de Ocorrencias da palavra "pelo": 4
+
+ Numero de Ocorrencias da palavra "sempre": 4
+
+ Numero de Ocorrencias da palavra "será": 4
+
+ Numero de Ocorrencias da palavra "essa": 4
+
+ Numero de Ocorrencias da palavra "gráfica": 4
+
+ Numero de Ocorrencias da palavra "linguajem": 3
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "ortografia": 21
+
+ Numero de Ocorrencias da palavra "para": 16
+
+ Numero de Ocorrencias da palavra "acentuacao": 15
+
+ Numero de Ocorrencias da palavra "lingua": 14
+
+ Numero de Ocorrencias da palavra "silaba": 14
+
+ Numero de Ocorrencias da palavra "portuguesa": 12
+
+ Numero de Ocorrencias da palavra "vogal": 11
+
+ Numero de Ocorrencias da palavra "como": 11
+
+ Numero de Ocorrencias da palavra "vocabulo": 10
+
+ Numero de Ocorrencias da palavra "vocabulos": 10
+
+ Numero de Ocorrencias da palavra "acento": 8
+
+ Numero de Ocorrencias da palavra "teem": 8
+
+ Numero de Ocorrencias da palavra "mais": 7
+
+ Numero de Ocorrencias da palavra "principios": 7
+
+ Numero de Ocorrencias da palavra "grafico": 6
+
+ Numero de Ocorrencias da palavra "escrita": 6
+
+ Numero de Ocorrencias da palavra "ainda": 6
+
+ Numero de Ocorrencias da palavra "tonica": 6
+
+ Numero de Ocorrencias da palavra "este": 5
+
+ Numero de Ocorrencias da palavra "marcada": 5
+
+ Numero de Ocorrencias da palavra "cuja": 5
+
+ Numero de Ocorrencias da palavra "esta": 5
+
+ Numero de Ocorrencias da palavra "todo": 5
+
+ Numero de Ocorrencias da palavra "toda": 5
+
+ Numero de Ocorrencias da palavra "quem": 5
+
+ Numero de Ocorrencias da palavra "todos": 5
+
+ Numero de Ocorrencias da palavra "evolucao": 5
+
+ Numero de Ocorrencias da palavra "plurais": 4
+
+ Numero de Ocorrencias da palavra "sempre": 4
+
+ Numero de Ocorrencias da palavra "porem": 4
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "grafia": 4
+
+ Numero de Ocorrencias da palavra "seja": 4
+
+ Numero de Ocorrencias da palavra "grafica": 4
+
+ Numero de Ocorrencias da palavra "terminados": 4
+
+ Numero de Ocorrencias da palavra "pelo": 4
+
+ Numero de Ocorrencias da palavra "quando": 4
+
+ Numero de Ocorrencias da palavra "pode": 4
+
+ Numero de Ocorrencias da palavra "glotolojica": 4
+
+ Numero de Ocorrencias da palavra "enunciacao": 4
+
+ Numero de Ocorrencias da palavra "pais": 4
+
+ Numero de Ocorrencias da palavra "reis": 4
+
+ Numero de Ocorrencias da palavra "essa": 4
+
+ Numero de Ocorrencias da palavra "exemplos": 4
+
+ Numero de Ocorrencias da palavra "qualquer": 4
+
+ Numero de Ocorrencias da palavra "vianna": 4
+
+ Numero de Ocorrencias da palavra "abreu": 4
+
+ Numero de Ocorrencias da palavra "modulacao": 4
+
+ Numero de Ocorrencias da palavra "sera": 4
+
+ Numero de Ocorrencias da palavra "lisboa": 3
+---------------------------------------------------------------------------

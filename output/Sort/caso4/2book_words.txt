@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 395
+
+ Numero de Ocorrencias da palavra "para": 308
+
+ Numero de Ocorrencias da palavra "mais": 164
+
+ Numero de Ocorrencias da palavra "como": 145
+
+ Numero de Ocorrencias da palavra "guarda": 115
+
+ Numero de Ocorrencias da palavra "governo": 107
+
+ Numero de Ocorrencias da palavra "porto": 100
+
+ Numero de Ocorrencias da palavra "pelo": 92
+
+ Numero de Ocorrencias da palavra "todos": 87
+
+ Numero de Ocorrencias da palavra "movimento": 83
+
+ Numero de Ocorrencias da palavra "revolta": 82
+
+ Numero de Ocorrencias da palavra "pela": 77
+
+ Numero de Ocorrencias da palavra "quartel": 74
+
+ Numero de Ocorrencias da palavra "municipal": 74
+
+ Numero de Ocorrencias da palavra "officiaes": 67
+
+ Numero de Ocorrencias da palavra "capitão": 66
+
+ Numero de Ocorrencias da palavra "janeiro": 66
+
+ Numero de Ocorrencias da palavra "até": 64
+
+ Numero de Ocorrencias da palavra "mesmo": 64
+
+ Numero de Ocorrencias da palavra "depois": 64
+
+ Numero de Ocorrencias da palavra "sobre": 63
+
+ Numero de Ocorrencias da palavra "contra": 63
+
+ Numero de Ocorrencias da palavra "infantaria": 63
+
+ Numero de Ocorrencias da palavra "esse": 62
+
+ Numero de Ocorrencias da palavra "portugueza": 60
+
+ Numero de Ocorrencias da palavra "republica": 60
+
+ Numero de Ocorrencias da palavra "porque": 58
+
+ Numero de Ocorrencias da palavra "joão": 58
+
+ Numero de Ocorrencias da palavra "elle": 54
+
+ Numero de Ocorrencias da palavra "quando": 54
+
+ Numero de Ocorrencias da palavra "tarde": 53
+
+ Numero de Ocorrencias da palavra "essa": 52
+
+ Numero de Ocorrencias da palavra "lisboa": 52
+
+ Numero de Ocorrencias da palavra "seus": 51
+
+ Numero de Ocorrencias da palavra "duma": 51
+
+ Numero de Ocorrencias da palavra "outros": 51
+
+ Numero de Ocorrencias da palavra "sargento": 49
+
+ Numero de Ocorrencias da palavra "leitão": 49
+
+ Numero de Ocorrencias da palavra "então": 48
+
+ Numero de Ocorrencias da palavra "assim": 48
+
+ Numero de Ocorrencias da palavra "onde": 47
+
+ Numero de Ocorrencias da palavra "forças": 47
+
+ Numero de Ocorrencias da palavra "parte": 47
+
+ Numero de Ocorrencias da palavra "tinham": 47
+
+ Numero de Ocorrencias da palavra "regimento": 46
+
+ Numero de Ocorrencias da palavra "paiz": 46
+
+ Numero de Ocorrencias da palavra "estava": 46
+
+ Numero de Ocorrencias da palavra "partido": 45
+
+ Numero de Ocorrencias da palavra "ainda": 45
+
+ Numero de Ocorrencias da palavra "foram": 43
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 395
+
+ Numero de Ocorrencias da palavra "para": 308
+
+ Numero de Ocorrencias da palavra "mais": 164
+
+ Numero de Ocorrencias da palavra "como": 145
+
+ Numero de Ocorrencias da palavra "guarda": 115
+
+ Numero de Ocorrencias da palavra "governo": 107
+
+ Numero de Ocorrencias da palavra "porto": 100
+
+ Numero de Ocorrencias da palavra "pelo": 92
+
+ Numero de Ocorrencias da palavra "todos": 87
+
+ Numero de Ocorrencias da palavra "movimento": 83
+
+ Numero de Ocorrencias da palavra "revolta": 82
+
+ Numero de Ocorrencias da palavra "pela": 77
+
+ Numero de Ocorrencias da palavra "quartel": 74
+
+ Numero de Ocorrencias da palavra "municipal": 74
+
+ Numero de Ocorrencias da palavra "officiaes": 67
+
+ Numero de Ocorrencias da palavra "capitão": 66
+
+ Numero de Ocorrencias da palavra "janeiro": 66
+
+ Numero de Ocorrencias da palavra "até": 64
+
+ Numero de Ocorrencias da palavra "mesmo": 64
+
+ Numero de Ocorrencias da palavra "depois": 64
+
+ Numero de Ocorrencias da palavra "sobre": 63
+
+ Numero de Ocorrencias da palavra "contra": 63
+
+ Numero de Ocorrencias da palavra "infantaria": 63
+
+ Numero de Ocorrencias da palavra "esse": 62
+
+ Numero de Ocorrencias da palavra "portugueza": 60
+
+ Numero de Ocorrencias da palavra "republica": 60
+
+ Numero de Ocorrencias da palavra "porque": 58
+
+ Numero de Ocorrencias da palavra "joão": 58
+
+ Numero de Ocorrencias da palavra "elle": 54
+
+ Numero de Ocorrencias da palavra "quando": 54
+
+ Numero de Ocorrencias da palavra "tarde": 53
+
+ Numero de Ocorrencias da palavra "essa": 52
+
+ Numero de Ocorrencias da palavra "lisboa": 52
+
+ Numero de Ocorrencias da palavra "seus": 51
+
+ Numero de Ocorrencias da palavra "duma": 51
+
+ Numero de Ocorrencias da palavra "outros": 51
+
+ Numero de Ocorrencias da palavra "sargento": 49
+
+ Numero de Ocorrencias da palavra "leitão": 49
+
+ Numero de Ocorrencias da palavra "então": 48
+
+ Numero de Ocorrencias da palavra "assim": 48
+
+ Numero de Ocorrencias da palavra "onde": 47
+
+ Numero de Ocorrencias da palavra "forças": 47
+
+ Numero de Ocorrencias da palavra "parte": 47
+
+ Numero de Ocorrencias da palavra "tinham": 47
+
+ Numero de Ocorrencias da palavra "regimento": 46
+
+ Numero de Ocorrencias da palavra "paiz": 46
+
+ Numero de Ocorrencias da palavra "estava": 46
+
+ Numero de Ocorrencias da palavra "partido": 45
+
+ Numero de Ocorrencias da palavra "ainda": 45
+
+ Numero de Ocorrencias da palavra "foram": 43
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 308
+
+ Numero de Ocorrencias da palavra "mais": 164
+
+ Numero de Ocorrencias da palavra "como": 145
+
+ Numero de Ocorrencias da palavra "guarda": 115
+
+ Numero de Ocorrencias da palavra "governo": 107
+
+ Numero de Ocorrencias da palavra "porto": 100
+
+ Numero de Ocorrencias da palavra "pelo": 92
+
+ Numero de Ocorrencias da palavra "todos": 87
+
+ Numero de Ocorrencias da palavra "movimento": 83
+
+ Numero de Ocorrencias da palavra "revolta": 82
+
+ Numero de Ocorrencias da palavra "pela": 77
+
+ Numero de Ocorrencias da palavra "municipal": 74
+
+ Numero de Ocorrencias da palavra "quartel": 74
+
+ Numero de Ocorrencias da palavra "officiaes": 67
+
+ Numero de Ocorrencias da palavra "capitao": 66
+
+ Numero de Ocorrencias da palavra "janeiro": 66
+
+ Numero de Ocorrencias da palavra "depois": 64
+
+ Numero de Ocorrencias da palavra "mesmo": 64
+
+ Numero de Ocorrencias da palavra "contra": 63
+
+ Numero de Ocorrencias da palavra "sobre": 63
+
+ Numero de Ocorrencias da palavra "infantaria": 63
+
+ Numero de Ocorrencias da palavra "esse": 62
+
+ Numero de Ocorrencias da palavra "republica": 60
+
+ Numero de Ocorrencias da palavra "portugueza": 60
+
+ Numero de Ocorrencias da palavra "porque": 58
+
+ Numero de Ocorrencias da palavra "joao": 58
+
+ Numero de Ocorrencias da palavra "elle": 54
+
+ Numero de Ocorrencias da palavra "quando": 54
+
+ Numero de Ocorrencias da palavra "tarde": 53
+
+ Numero de Ocorrencias da palavra "lisboa": 52
+
+ Numero de Ocorrencias da palavra "essa": 52
+
+ Numero de Ocorrencias da palavra "seus": 51
+
+ Numero de Ocorrencias da palavra "outros": 51
+
+ Numero de Ocorrencias da palavra "duma": 51
+
+ Numero de Ocorrencias da palavra "esta": 49
+
+ Numero de Ocorrencias da palavra "sargento": 49
+
+ Numero de Ocorrencias da palavra "leitao": 49
+
+ Numero de Ocorrencias da palavra "entao": 48
+
+ Numero de Ocorrencias da palavra "assim": 48
+
+ Numero de Ocorrencias da palavra "parte": 47
+
+ Numero de Ocorrencias da palavra "tinham": 47
+
+ Numero de Ocorrencias da palavra "onde": 47
+
+ Numero de Ocorrencias da palavra "forcas": 47
+
+ Numero de Ocorrencias da palavra "paiz": 46
+
+ Numero de Ocorrencias da palavra "regimento": 46
+
+ Numero de Ocorrencias da palavra "estava": 46
+
+ Numero de Ocorrencias da palavra "ainda": 45
+
+ Numero de Ocorrencias da palavra "partido": 45
+
+ Numero de Ocorrencias da palavra "foram": 44
+
+ Numero de Ocorrencias da palavra "fora": 42
+---------------------------------------------------------------------------

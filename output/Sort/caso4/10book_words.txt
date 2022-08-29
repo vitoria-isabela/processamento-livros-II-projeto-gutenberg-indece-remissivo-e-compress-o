@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 215
+
+ Numero de Ocorrencias da palavra "octavia": 150
+
+ Numero de Ocorrencias da palavra "nÉro": 106
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "néro": 96
+
+ Numero de Ocorrencias da palavra "seneca": 86
+
+ Numero de Ocorrencias da palavra "para": 84
+
+ Numero de Ocorrencias da palavra "povo": 65
+
+ Numero de Ocorrencias da palavra "ella": 53
+
+ Numero de Ocorrencias da palavra "quem": 53
+
+ Numero de Ocorrencias da palavra "ainda": 52
+
+ Numero de Ocorrencias da palavra "poppÉa": 51
+
+ Numero de Ocorrencias da palavra "tigellino": 48
+
+ Numero de Ocorrencias da palavra "morte": 46
+
+ Numero de Ocorrencias da palavra "minha": 46
+
+ Numero de Ocorrencias da palavra "roma": 43
+
+ Numero de Ocorrencias da palavra "coração": 41
+
+ Numero de Ocorrencias da palavra "elle": 38
+
+ Numero de Ocorrencias da palavra "amor": 37
+
+ Numero de Ocorrencias da palavra "senhor": 34
+
+ Numero de Ocorrencias da palavra "poppéa": 33
+
+ Numero de Ocorrencias da palavra "como": 31
+
+ Numero de Ocorrencias da palavra "este": 29
+
+ Numero de Ocorrencias da palavra "tempo": 28
+
+ Numero de Ocorrencias da palavra "agora": 27
+
+ Numero de Ocorrencias da palavra "throno": 27
+
+ Numero de Ocorrencias da palavra "sangue": 27
+
+ Numero de Ocorrencias da palavra "scena": 27
+
+ Numero de Ocorrencias da palavra "sempre": 26
+
+ Numero de Ocorrencias da palavra "porque": 26
+
+ Numero de Ocorrencias da palavra "pois": 25
+
+ Numero de Ocorrencias da palavra "tudo": 25
+
+ Numero de Ocorrencias da palavra "tão": 25
+
+ Numero de Ocorrencias da palavra "meus": 23
+
+ Numero de Ocorrencias da palavra "crime": 23
+
+ Numero de Ocorrencias da palavra "mesmo": 21
+
+ Numero de Ocorrencias da palavra "seus": 21
+
+ Numero de Ocorrencias da palavra "mulher": 20
+
+ Numero de Ocorrencias da palavra "aqui": 20
+
+ Numero de Ocorrencias da palavra "vida": 19
+
+ Numero de Ocorrencias da palavra "menos": 19
+
+ Numero de Ocorrencias da palavra "certo": 19
+
+ Numero de Ocorrencias da palavra "quanto": 19
+
+ Numero de Ocorrencias da palavra "cruel": 18
+
+ Numero de Ocorrencias da palavra "quando": 18
+
+ Numero de Ocorrencias da palavra "tanto": 18
+
+ Numero de Ocorrencias da palavra "teus": 18
+
+ Numero de Ocorrencias da palavra "hoje": 18
+
+ Numero de Ocorrencias da palavra "será": 18
+
+ Numero de Ocorrencias da palavra "breve": 17
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 215
+
+ Numero de Ocorrencias da palavra "octavia": 150
+
+ Numero de Ocorrencias da palavra "nÉro": 106
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "néro": 96
+
+ Numero de Ocorrencias da palavra "seneca": 86
+
+ Numero de Ocorrencias da palavra "para": 84
+
+ Numero de Ocorrencias da palavra "povo": 65
+
+ Numero de Ocorrencias da palavra "ella": 53
+
+ Numero de Ocorrencias da palavra "quem": 53
+
+ Numero de Ocorrencias da palavra "ainda": 52
+
+ Numero de Ocorrencias da palavra "poppÉa": 51
+
+ Numero de Ocorrencias da palavra "tigellino": 48
+
+ Numero de Ocorrencias da palavra "morte": 46
+
+ Numero de Ocorrencias da palavra "minha": 46
+
+ Numero de Ocorrencias da palavra "roma": 43
+
+ Numero de Ocorrencias da palavra "coração": 41
+
+ Numero de Ocorrencias da palavra "elle": 38
+
+ Numero de Ocorrencias da palavra "amor": 37
+
+ Numero de Ocorrencias da palavra "senhor": 34
+
+ Numero de Ocorrencias da palavra "poppéa": 33
+
+ Numero de Ocorrencias da palavra "como": 31
+
+ Numero de Ocorrencias da palavra "este": 29
+
+ Numero de Ocorrencias da palavra "tempo": 28
+
+ Numero de Ocorrencias da palavra "agora": 27
+
+ Numero de Ocorrencias da palavra "throno": 27
+
+ Numero de Ocorrencias da palavra "sangue": 27
+
+ Numero de Ocorrencias da palavra "scena": 27
+
+ Numero de Ocorrencias da palavra "sempre": 26
+
+ Numero de Ocorrencias da palavra "porque": 26
+
+ Numero de Ocorrencias da palavra "pois": 25
+
+ Numero de Ocorrencias da palavra "tudo": 25
+
+ Numero de Ocorrencias da palavra "tão": 25
+
+ Numero de Ocorrencias da palavra "meus": 23
+
+ Numero de Ocorrencias da palavra "crime": 23
+
+ Numero de Ocorrencias da palavra "mesmo": 21
+
+ Numero de Ocorrencias da palavra "seus": 21
+
+ Numero de Ocorrencias da palavra "mulher": 20
+
+ Numero de Ocorrencias da palavra "aqui": 20
+
+ Numero de Ocorrencias da palavra "vida": 19
+
+ Numero de Ocorrencias da palavra "menos": 19
+
+ Numero de Ocorrencias da palavra "certo": 19
+
+ Numero de Ocorrencias da palavra "quanto": 19
+
+ Numero de Ocorrencias da palavra "cruel": 18
+
+ Numero de Ocorrencias da palavra "quando": 18
+
+ Numero de Ocorrencias da palavra "tanto": 18
+
+ Numero de Ocorrencias da palavra "teus": 18
+
+ Numero de Ocorrencias da palavra "hoje": 18
+
+ Numero de Ocorrencias da palavra "será": 18
+
+ Numero de Ocorrencias da palavra "breve": 17
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "nero": 202
+
+ Numero de Ocorrencias da palavra "octavia": 150
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "poppea": 86
+
+ Numero de Ocorrencias da palavra "seneca": 86
+
+ Numero de Ocorrencias da palavra "para": 84
+
+ Numero de Ocorrencias da palavra "povo": 65
+
+ Numero de Ocorrencias da palavra "quem": 53
+
+ Numero de Ocorrencias da palavra "ella": 53
+
+ Numero de Ocorrencias da palavra "ainda": 52
+
+ Numero de Ocorrencias da palavra "tigellino": 48
+
+ Numero de Ocorrencias da palavra "morte": 46
+
+ Numero de Ocorrencias da palavra "minha": 46
+
+ Numero de Ocorrencias da palavra "roma": 43
+
+ Numero de Ocorrencias da palavra "coracao": 41
+
+ Numero de Ocorrencias da palavra "elle": 38
+
+ Numero de Ocorrencias da palavra "amor": 37
+
+ Numero de Ocorrencias da palavra "senhor": 34
+
+ Numero de Ocorrencias da palavra "como": 31
+
+ Numero de Ocorrencias da palavra "este": 29
+
+ Numero de Ocorrencias da palavra "tempo": 28
+
+ Numero de Ocorrencias da palavra "agora": 27
+
+ Numero de Ocorrencias da palavra "scena": 27
+
+ Numero de Ocorrencias da palavra "throno": 27
+
+ Numero de Ocorrencias da palavra "sangue": 27
+
+ Numero de Ocorrencias da palavra "porque": 26
+
+ Numero de Ocorrencias da palavra "sempre": 26
+
+ Numero de Ocorrencias da palavra "tudo": 25
+
+ Numero de Ocorrencias da palavra "pois": 25
+
+ Numero de Ocorrencias da palavra "esta": 24
+
+ Numero de Ocorrencias da palavra "meus": 23
+
+ Numero de Ocorrencias da palavra "crime": 23
+
+ Numero de Ocorrencias da palavra "seus": 21
+
+ Numero de Ocorrencias da palavra "mesmo": 21
+
+ Numero de Ocorrencias da palavra "mulher": 20
+
+ Numero de Ocorrencias da palavra "aqui": 20
+
+ Numero de Ocorrencias da palavra "menos": 19
+
+ Numero de Ocorrencias da palavra "quanto": 19
+
+ Numero de Ocorrencias da palavra "certo": 19
+
+ Numero de Ocorrencias da palavra "vida": 19
+
+ Numero de Ocorrencias da palavra "sera": 18
+
+ Numero de Ocorrencias da palavra "tanto": 18
+
+ Numero de Ocorrencias da palavra "quando": 18
+
+ Numero de Ocorrencias da palavra "hoje": 18
+
+ Numero de Ocorrencias da palavra "teus": 18
+
+ Numero de Ocorrencias da palavra "cruel": 18
+
+ Numero de Ocorrencias da palavra "breve": 17
+
+ Numero de Ocorrencias da palavra "assim": 17
+
+ Numero de Ocorrencias da palavra "todos": 17
+
+ Numero de Ocorrencias da palavra "fazer": 16
+---------------------------------------------------------------------------

@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS EM TODOS OS LIVROS: 
+-------------------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 1063
+
+ Numero de Ocorrencias da palavra "como": 626
+
+ Numero de Ocorrencias da palavra "minha": 548
+
+ Numero de Ocorrencias da palavra "mais": 516
+
+ Numero de Ocorrencias da palavra "elle": 474
+
+ Numero de Ocorrencias da palavra "esta": 451
+
+ Numero de Ocorrencias da palavra "para": 439
+
+ Numero de Ocorrencias da palavra "como": 399
+
+ Numero de Ocorrencias da palavra "quem": 355
+
+ Numero de Ocorrencias da palavra "ella": 339
+
+ Numero de Ocorrencias da palavra "padre": 330
+
+ Numero de Ocorrencias da palavra "para": 308
+
+ Numero de Ocorrencias da palavra "porque": 306
+
+ Numero de Ocorrencias da palavra "homem": 273
+
+ Numero de Ocorrencias da palavra "mais": 269
+
+ Numero de Ocorrencias da palavra "muito": 262
+
+ Numero de Ocorrencias da palavra "ainda": 257
+
+ Numero de Ocorrencias da palavra "pois": 254
+
+ Numero de Ocorrencias da palavra "isso": 253
+
+ Numero de Ocorrencias da palavra "eugenio": 239
+
+ Numero de Ocorrencias da palavra "tudo": 232
+
+ Numero de Ocorrencias da palavra "casa": 224
+
+ Numero de Ocorrencias da palavra "voce": 223
+
+ Numero de Ocorrencias da palavra "quando": 218
+
+ Numero de Ocorrencias da palavra "amigo": 196
+
+ Numero de Ocorrencias da palavra "coracao": 195
+
+ Numero de Ocorrencias da palavra "helena": 189
+
+ Numero de Ocorrencias da palavra "custodio": 182
+
+ Numero de Ocorrencias da palavra "madre": 177
+
+ Numero de Ocorrencias da palavra "esse": 176
+
+ Numero de Ocorrencias da palavra "vida": 174
+
+ Numero de Ocorrencias da palavra "depois": 173
+
+ Numero de Ocorrencias da palavra "assim": 173
+
+ Numero de Ocorrencias da palavra "filha": 169
+
+ Numero de Ocorrencias da palavra "mulher": 169
+
+ Numero de Ocorrencias da palavra "entao": 168
+
+ Numero de Ocorrencias da palavra "nada": 168
+
+ Numero de Ocorrencias da palavra "beatriz": 164
+
+ Numero de Ocorrencias da palavra "mais": 164
+
+ Numero de Ocorrencias da palavra "pode": 163
+
+ Numero de Ocorrencias da palavra "agora": 162
+
+ Numero de Ocorrencias da palavra "pelo": 162
+
+ Numero de Ocorrencias da palavra "todos": 161
+
+ Numero de Ocorrencias da palavra "tenho": 160
+
+ Numero de Ocorrencias da palavra "paulo": 159
+
+ Numero de Ocorrencias da palavra "fazer": 159
+
+ Numero de Ocorrencias da palavra "julio": 155
+
+ Numero de Ocorrencias da palavra "paula": 154
+
+ Numero de Ocorrencias da palavra "mesmo": 153
+
+ Numero de Ocorrencias da palavra "aqui": 149
+>>>>>>>>>>>>>>>>>>>>

@@ -1,0 +1,11 @@
+add_executable(HuffmanCompress HuffmanCompress.cpp)
+target_link_libraries(HuffmanCompress PUBLIC libProcessaArquivos)
+
+add_executable(HuffmanDecompress HuffmanDecompress.cpp)
+target_link_libraries(HuffmanDecompress PUBLIC libProcessaArquivos)
+
+add_executable(buildTree buildTree.cpp)
+target_link_libraries(buildTree PUBLIC libProcessaArquivos)
+
+add_executable(printTree printTree.cpp)
+target_link_libraries(printTree PUBLIC libProcessaArquivos)

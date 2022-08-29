@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "pierrot": 12
+
+ Numero de Ocorrencias da palavra "pierrette": 9
+
+ Numero de Ocorrencias da palavra "não": 7
+
+ Numero de Ocorrencias da palavra "nota": 6
+
+ Numero de Ocorrencias da palavra "surge": 6
+
+ Numero de Ocorrencias da palavra "jardim": 6
+
+ Numero de Ocorrencias da palavra "transcritor": 6
+
+ Numero de Ocorrencias da palavra "desenho": 6
+
+ Numero de Ocorrencias da palavra "arlequina": 6
+
+ Numero de Ocorrencias da palavra "aqui": 6
+
+ Numero de Ocorrencias da palavra "maria": 5
+
+ Numero de Ocorrencias da palavra "dona": 5
+
+ Numero de Ocorrencias da palavra "arlequim": 4
+
+ Numero de Ocorrencias da palavra "muito": 4
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "mais": 3
+
+ Numero de Ocorrencias da palavra "até": 3
+
+ Numero de Ocorrencias da palavra "serão": 3
+
+ Numero de Ocorrencias da palavra "entre": 2
+
+ Numero de Ocorrencias da palavra "então": 2
+
+ Numero de Ocorrencias da palavra "noite": 2
+
+ Numero de Ocorrencias da palavra "ficou": 2
+
+ Numero de Ocorrencias da palavra "prometeu": 2
+
+ Numero de Ocorrencias da palavra "cardoso": 2
+
+ Numero de Ocorrencias da palavra "tão": 2
+
+ Numero de Ocorrencias da palavra "marco": 2
+
+ Numero de Ocorrencias da palavra "soares": 2
+
+ Numero de Ocorrencias da palavra "fazer": 2
+
+ Numero de Ocorrencias da palavra "tinha": 2
+
+ Numero de Ocorrencias da palavra "porque": 2
+
+ Numero de Ocorrencias da palavra "tinhase": 2
+
+ Numero de Ocorrencias da palavra "escondido": 2
+
+ Numero de Ocorrencias da palavra "imaginação": 2
+
+ Numero de Ocorrencias da palavra "della": 2
+
+ Numero de Ocorrencias da palavra "moraes": 2
+
+ Numero de Ocorrencias da palavra "canteiros": 2
+
+ Numero de Ocorrencias da palavra "quiz": 2
+
+ Numero de Ocorrencias da palavra "atiroua": 2
+
+ Numero de Ocorrencias da palavra "amado": 2
+
+ Numero de Ocorrencias da palavra "ninguem": 2
+
+ Numero de Ocorrencias da palavra "pela": 1
+
+ Numero de Ocorrencias da palavra "mafra": 1
+
+ Numero de Ocorrencias da palavra "pensar": 1
+
+ Numero de Ocorrencias da palavra "perdão": 1
+
+ Numero de Ocorrencias da palavra "almadanegreiros": 1
+
+ Numero de Ocorrencias da palavra "mello": 1
+
+ Numero de Ocorrencias da palavra "cançado": 1
+
+ Numero de Ocorrencias da palavra "mandou": 1
+
+ Numero de Ocorrencias da palavra "continuou": 1
+
+ Numero de Ocorrencias da palavra "raiva": 1
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "pierrot": 12
+
+ Numero de Ocorrencias da palavra "pierrette": 9
+
+ Numero de Ocorrencias da palavra "não": 7
+
+ Numero de Ocorrencias da palavra "nota": 6
+
+ Numero de Ocorrencias da palavra "surge": 6
+
+ Numero de Ocorrencias da palavra "jardim": 6
+
+ Numero de Ocorrencias da palavra "transcritor": 6
+
+ Numero de Ocorrencias da palavra "desenho": 6
+
+ Numero de Ocorrencias da palavra "arlequina": 6
+
+ Numero de Ocorrencias da palavra "aqui": 6
+
+ Numero de Ocorrencias da palavra "maria": 5
+
+ Numero de Ocorrencias da palavra "dona": 5
+
+ Numero de Ocorrencias da palavra "arlequim": 4
+
+ Numero de Ocorrencias da palavra "muito": 4
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "mais": 3
+
+ Numero de Ocorrencias da palavra "até": 3
+
+ Numero de Ocorrencias da palavra "serão": 3
+
+ Numero de Ocorrencias da palavra "entre": 2
+
+ Numero de Ocorrencias da palavra "então": 2
+
+ Numero de Ocorrencias da palavra "noite": 2
+
+ Numero de Ocorrencias da palavra "ficou": 2
+
+ Numero de Ocorrencias da palavra "prometeu": 2
+
+ Numero de Ocorrencias da palavra "cardoso": 2
+
+ Numero de Ocorrencias da palavra "tão": 2
+
+ Numero de Ocorrencias da palavra "marco": 2
+
+ Numero de Ocorrencias da palavra "soares": 2
+
+ Numero de Ocorrencias da palavra "fazer": 2
+
+ Numero de Ocorrencias da palavra "tinha": 2
+
+ Numero de Ocorrencias da palavra "porque": 2
+
+ Numero de Ocorrencias da palavra "tinhase": 2
+
+ Numero de Ocorrencias da palavra "escondido": 2
+
+ Numero de Ocorrencias da palavra "imaginação": 2
+
+ Numero de Ocorrencias da palavra "della": 2
+
+ Numero de Ocorrencias da palavra "moraes": 2
+
+ Numero de Ocorrencias da palavra "canteiros": 2
+
+ Numero de Ocorrencias da palavra "quiz": 2
+
+ Numero de Ocorrencias da palavra "atiroua": 2
+
+ Numero de Ocorrencias da palavra "amado": 2
+
+ Numero de Ocorrencias da palavra "ninguem": 2
+
+ Numero de Ocorrencias da palavra "pela": 1
+
+ Numero de Ocorrencias da palavra "mafra": 1
+
+ Numero de Ocorrencias da palavra "pensar": 1
+
+ Numero de Ocorrencias da palavra "perdão": 1
+
+ Numero de Ocorrencias da palavra "almadanegreiros": 1
+
+ Numero de Ocorrencias da palavra "mello": 1
+
+ Numero de Ocorrencias da palavra "cançado": 1
+
+ Numero de Ocorrencias da palavra "mandou": 1
+
+ Numero de Ocorrencias da palavra "continuou": 1
+
+ Numero de Ocorrencias da palavra "raiva": 1
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "": 42081
+
+ Numero de Ocorrencias da palavra "": 41441
+
+ Numero de Ocorrencias da palavra "": 40881
+
+ Numero de Ocorrencias da palavra "": 40401
+
+ Numero de Ocorrencias da palavra "pierrot": 12
+
+ Numero de Ocorrencias da palavra "pierrette": 9
+
+ Numero de Ocorrencias da palavra "desenho": 6
+
+ Numero de Ocorrencias da palavra "jardim": 6
+
+ Numero de Ocorrencias da palavra "aqui": 6
+
+ Numero de Ocorrencias da palavra "surge": 6
+
+ Numero de Ocorrencias da palavra "nota": 6
+
+ Numero de Ocorrencias da palavra "transcritor": 6
+
+ Numero de Ocorrencias da palavra "arlequina": 6
+
+ Numero de Ocorrencias da palavra "maria": 5
+
+ Numero de Ocorrencias da palavra "dona": 5
+
+ Numero de Ocorrencias da palavra "depois": 4
+
+ Numero de Ocorrencias da palavra "muito": 4
+
+ Numero de Ocorrencias da palavra "arlequim": 4
+
+ Numero de Ocorrencias da palavra "serao": 3
+
+ Numero de Ocorrencias da palavra "mais": 3
+
+ Numero de Ocorrencias da palavra "marco": 2
+
+ Numero de Ocorrencias da palavra "prometeu": 2
+
+ Numero de Ocorrencias da palavra "noite": 2
+
+ Numero de Ocorrencias da palavra "fazer": 2
+
+ Numero de Ocorrencias da palavra "tinhase": 2
+
+ Numero de Ocorrencias da palavra "escondido": 2
+
+ Numero de Ocorrencias da palavra "quiz": 2
+
+ Numero de Ocorrencias da palavra "ficou": 2
+
+ Numero de Ocorrencias da palavra "atiroua": 2
+
+ Numero de Ocorrencias da palavra "porque": 2
+
+ Numero de Ocorrencias da palavra "ninguem": 2
+
+ Numero de Ocorrencias da palavra "imaginacao": 2
+
+ Numero de Ocorrencias da palavra "soares": 2
+
+ Numero de Ocorrencias da palavra "tinha": 2
+
+ Numero de Ocorrencias da palavra "canteiros": 2
+
+ Numero de Ocorrencias da palavra "amado": 2
+
+ Numero de Ocorrencias da palavra "della": 2
+
+ Numero de Ocorrencias da palavra "cardoso": 2
+
+ Numero de Ocorrencias da palavra "entao": 2
+
+ Numero de Ocorrencias da palavra "entre": 2
+
+ Numero de Ocorrencias da palavra "moraes": 2
+
+ Numero de Ocorrencias da palavra "mafra": 1
+
+ Numero de Ocorrencias da palavra "emendarse": 1
+
+ Numero de Ocorrencias da palavra "1918": 1
+
+ Numero de Ocorrencias da palavra "julgou": 1
+
+ Numero de Ocorrencias da palavra "ouviu": 1
+
+ Numero de Ocorrencias da palavra "aquelle": 1
+
+ Numero de Ocorrencias da palavra "elle": 1
+
+ Numero de Ocorrencias da palavra "mandou": 1
+
+ Numero de Ocorrencias da palavra "mello": 1
+---------------------------------------------------------------------------

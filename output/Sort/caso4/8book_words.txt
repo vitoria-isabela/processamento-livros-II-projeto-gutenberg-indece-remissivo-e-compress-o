@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 111
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "para": 88
+
+ Numero de Ocorrencias da palavra "lupe": 79
+
+ Numero de Ocorrencias da palavra "como": 75
+
+ Numero de Ocorrencias da palavra "sobre": 48
+
+ Numero de Ocorrencias da palavra "minha": 37
+
+ Numero de Ocorrencias da palavra "miss": 30
+
+ Numero de Ocorrencias da palavra "onde": 28
+
+ Numero de Ocorrencias da palavra "qual": 28
+
+ Numero de Ocorrencias da palavra "seus": 27
+
+ Numero de Ocorrencias da palavra "ella": 26
+
+ Numero de Ocorrencias da palavra "todos": 25
+
+ Numero de Ocorrencias da palavra "quem": 25
+
+ Numero de Ocorrencias da palavra "entre": 24
+
+ Numero de Ocorrencias da palavra "quando": 23
+
+ Numero de Ocorrencias da palavra "depois": 23
+
+ Numero de Ocorrencias da palavra "ainda": 23
+
+ Numero de Ocorrencias da palavra "n’uma": 23
+
+ Numero de Ocorrencias da palavra "jackson": 23
+
+ Numero de Ocorrencias da palavra "tão": 21
+
+ Numero de Ocorrencias da palavra "brazileiro": 20
+
+ Numero de Ocorrencias da palavra "colima": 20
+
+ Numero de Ocorrencias da palavra "brazil": 20
+
+ Numero de Ocorrencias da palavra "illustration": 19
+
+ Numero de Ocorrencias da palavra "hedges": 19
+
+ Numero de Ocorrencias da palavra "suas": 19
+
+ Numero de Ocorrencias da palavra "mexicana": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "cada": 18
+
+ Numero de Ocorrencias da palavra "tempo": 18
+
+ Numero de Ocorrencias da palavra "muito": 18
+
+ Numero de Ocorrencias da palavra "quanto": 17
+
+ Numero de Ocorrencias da palavra "então": 17
+
+ Numero de Ocorrencias da palavra "terra": 17
+
+ Numero de Ocorrencias da palavra "n’um": 17
+
+ Numero de Ocorrencias da palavra "meus": 17
+
+ Numero de Ocorrencias da palavra "meio": 17
+
+ Numero de Ocorrencias da palavra "vida": 17
+
+ Numero de Ocorrencias da palavra "até": 16
+
+ Numero de Ocorrencias da palavra "tudo": 16
+
+ Numero de Ocorrencias da palavra "pouco": 15
+
+ Numero de Ocorrencias da palavra "pela": 15
+
+ Numero de Ocorrencias da palavra "annos": 15
+
+ Numero de Ocorrencias da palavra "menos": 15
+
+ Numero de Ocorrencias da palavra "pois": 14
+
+ Numero de Ocorrencias da palavra "nossa": 14
+
+ Numero de Ocorrencias da palavra "assim": 14
+
+ Numero de Ocorrencias da palavra "maria": 14
+
+ Numero de Ocorrencias da palavra "olhos": 13
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 111
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "para": 88
+
+ Numero de Ocorrencias da palavra "lupe": 79
+
+ Numero de Ocorrencias da palavra "como": 75
+
+ Numero de Ocorrencias da palavra "sobre": 48
+
+ Numero de Ocorrencias da palavra "minha": 37
+
+ Numero de Ocorrencias da palavra "miss": 30
+
+ Numero de Ocorrencias da palavra "onde": 28
+
+ Numero de Ocorrencias da palavra "qual": 28
+
+ Numero de Ocorrencias da palavra "seus": 27
+
+ Numero de Ocorrencias da palavra "ella": 26
+
+ Numero de Ocorrencias da palavra "todos": 25
+
+ Numero de Ocorrencias da palavra "quem": 25
+
+ Numero de Ocorrencias da palavra "entre": 24
+
+ Numero de Ocorrencias da palavra "quando": 23
+
+ Numero de Ocorrencias da palavra "depois": 23
+
+ Numero de Ocorrencias da palavra "ainda": 23
+
+ Numero de Ocorrencias da palavra "n’uma": 23
+
+ Numero de Ocorrencias da palavra "jackson": 23
+
+ Numero de Ocorrencias da palavra "tão": 21
+
+ Numero de Ocorrencias da palavra "brazileiro": 20
+
+ Numero de Ocorrencias da palavra "colima": 20
+
+ Numero de Ocorrencias da palavra "brazil": 20
+
+ Numero de Ocorrencias da palavra "illustration": 19
+
+ Numero de Ocorrencias da palavra "hedges": 19
+
+ Numero de Ocorrencias da palavra "suas": 19
+
+ Numero de Ocorrencias da palavra "mexicana": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "cada": 18
+
+ Numero de Ocorrencias da palavra "tempo": 18
+
+ Numero de Ocorrencias da palavra "muito": 18
+
+ Numero de Ocorrencias da palavra "quanto": 17
+
+ Numero de Ocorrencias da palavra "então": 17
+
+ Numero de Ocorrencias da palavra "terra": 17
+
+ Numero de Ocorrencias da palavra "n’um": 17
+
+ Numero de Ocorrencias da palavra "meus": 17
+
+ Numero de Ocorrencias da palavra "meio": 17
+
+ Numero de Ocorrencias da palavra "vida": 17
+
+ Numero de Ocorrencias da palavra "até": 16
+
+ Numero de Ocorrencias da palavra "tudo": 16
+
+ Numero de Ocorrencias da palavra "pouco": 15
+
+ Numero de Ocorrencias da palavra "pela": 15
+
+ Numero de Ocorrencias da palavra "annos": 15
+
+ Numero de Ocorrencias da palavra "menos": 15
+
+ Numero de Ocorrencias da palavra "pois": 14
+
+ Numero de Ocorrencias da palavra "nossa": 14
+
+ Numero de Ocorrencias da palavra "assim": 14
+
+ Numero de Ocorrencias da palavra "maria": 14
+
+ Numero de Ocorrencias da palavra "olhos": 13
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "mais": 98
+
+ Numero de Ocorrencias da palavra "para": 90
+
+ Numero de Ocorrencias da palavra "lupe": 79
+
+ Numero de Ocorrencias da palavra "como": 77
+
+ Numero de Ocorrencias da palavra "sobre": 48
+
+ Numero de Ocorrencias da palavra "minha": 37
+
+ Numero de Ocorrencias da palavra "qual": 34
+
+ Numero de Ocorrencias da palavra "miss": 31
+
+ Numero de Ocorrencias da palavra "onde": 28
+
+ Numero de Ocorrencias da palavra "seus": 27
+
+ Numero de Ocorrencias da palavra "ella": 27
+
+ Numero de Ocorrencias da palavra "quem": 26
+
+ Numero de Ocorrencias da palavra "todos": 25
+
+ Numero de Ocorrencias da palavra "entre": 24
+
+ Numero de Ocorrencias da palavra "numa": 24
+
+ Numero de Ocorrencias da palavra "jackson": 23
+
+ Numero de Ocorrencias da palavra "ainda": 23
+
+ Numero de Ocorrencias da palavra "quando": 23
+
+ Numero de Ocorrencias da palavra "depois": 23
+
+ Numero de Ocorrencias da palavra "brazil": 20
+
+ Numero de Ocorrencias da palavra "brazileiro": 20
+
+ Numero de Ocorrencias da palavra "colima": 20
+
+ Numero de Ocorrencias da palavra "hedges": 19
+
+ Numero de Ocorrencias da palavra "illustration": 19
+
+ Numero de Ocorrencias da palavra "muito": 19
+
+ Numero de Ocorrencias da palavra "suas": 19
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "cada": 18
+
+ Numero de Ocorrencias da palavra "mexicana": 18
+
+ Numero de Ocorrencias da palavra "entao": 18
+
+ Numero de Ocorrencias da palavra "tempo": 18
+
+ Numero de Ocorrencias da palavra "terra": 17
+
+ Numero de Ocorrencias da palavra "quanto": 17
+
+ Numero de Ocorrencias da palavra "meio": 17
+
+ Numero de Ocorrencias da palavra "meus": 17
+
+ Numero de Ocorrencias da palavra "esta": 17
+
+ Numero de Ocorrencias da palavra "vida": 17
+
+ Numero de Ocorrencias da palavra "tudo": 16
+
+ Numero de Ocorrencias da palavra "pela": 15
+
+ Numero de Ocorrencias da palavra "annos": 15
+
+ Numero de Ocorrencias da palavra "menos": 15
+
+ Numero de Ocorrencias da palavra "pouco": 15
+
+ Numero de Ocorrencias da palavra "pois": 15
+
+ Numero de Ocorrencias da palavra "della": 14
+
+ Numero de Ocorrencias da palavra "nossa": 14
+
+ Numero de Ocorrencias da palavra "assim": 14
+
+ Numero de Ocorrencias da palavra "maria": 14
+
+ Numero de Ocorrencias da palavra "augusta": 13
+
+ Numero de Ocorrencias da palavra "bordo": 13
+
+ Numero de Ocorrencias da palavra "primeira": 13
+---------------------------------------------------------------------------

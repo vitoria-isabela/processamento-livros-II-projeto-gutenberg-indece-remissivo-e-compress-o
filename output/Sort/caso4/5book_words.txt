@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 106
+
+ Numero de Ocorrencias da palavra "para": 95
+
+ Numero de Ocorrencias da palavra "project": 84
+
+ Numero de Ocorrencias da palavra "gutenbergtm": 56
+
+ Numero de Ocorrencias da palavra "como": 54
+
+ Numero de Ocorrencias da palavra "mais": 53
+
+ Numero de Ocorrencias da palavra "minha": 45
+
+ Numero de Ocorrencias da palavra "work": 45
+
+ Numero de Ocorrencias da palavra "with": 45
+
+ Numero de Ocorrencias da palavra "this": 44
+
+ Numero de Ocorrencias da palavra "works": 32
+
+ Numero de Ocorrencias da palavra "depois": 31
+
+ Numero de Ocorrencias da palavra "então": 28
+
+ Numero de Ocorrencias da palavra "electronic": 27
+
+ Numero de Ocorrencias da palavra "essa": 27
+
+ Numero de Ocorrencias da palavra "gutenberg": 26
+
+ Numero de Ocorrencias da palavra "tinha": 26
+
+ Numero de Ocorrencias da palavra "annos": 26
+
+ Numero de Ocorrencias da palavra "ainda": 25
+
+ Numero de Ocorrencias da palavra "romance": 25
+
+ Numero de Ocorrencias da palavra "elle": 25
+
+ Numero de Ocorrencias da palavra "havia": 22
+
+ Numero de Ocorrencias da palavra "foundation": 22
+
+ Numero de Ocorrencias da palavra "tempo": 21
+
+ Numero de Ocorrencias da palavra "espirito": 21
+
+ Numero de Ocorrencias da palavra "onde": 20
+
+ Numero de Ocorrencias da palavra "terms": 20
+
+ Numero de Ocorrencias da palavra "quando": 20
+
+ Numero de Ocorrencias da palavra "livro": 19
+
+ Numero de Ocorrencias da palavra "esse": 19
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "litteraria": 18
+
+ Numero de Ocorrencias da palavra "anno": 18
+
+ Numero de Ocorrencias da palavra "meus": 18
+
+ Numero de Ocorrencias da palavra "agreement": 18
+
+ Numero de Ocorrencias da palavra "qual": 17
+
+ Numero de Ocorrencias da palavra "from": 17
+
+ Numero de Ocorrencias da palavra "pela": 17
+
+ Numero de Ocorrencias da palavra "seus": 16
+
+ Numero de Ocorrencias da palavra "states": 15
+
+ Numero de Ocorrencias da palavra "nossa": 15
+
+ Numero de Ocorrencias da palavra "that": 15
+
+ Numero de Ocorrencias da palavra "hoje": 15
+
+ Numero de Ocorrencias da palavra "donations": 15
+
+ Numero de Ocorrencias da palavra "alencar": 14
+
+ Numero de Ocorrencias da palavra "casa": 14
+
+ Numero de Ocorrencias da palavra "primeiro": 14
+
+ Numero de Ocorrencias da palavra "escriptor": 14
+
+ Numero de Ocorrencias da palavra "license": 14
+
+ Numero de Ocorrencias da palavra "other": 14
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 106
+
+ Numero de Ocorrencias da palavra "para": 95
+
+ Numero de Ocorrencias da palavra "project": 84
+
+ Numero de Ocorrencias da palavra "gutenbergtm": 56
+
+ Numero de Ocorrencias da palavra "como": 54
+
+ Numero de Ocorrencias da palavra "mais": 53
+
+ Numero de Ocorrencias da palavra "minha": 45
+
+ Numero de Ocorrencias da palavra "work": 45
+
+ Numero de Ocorrencias da palavra "with": 45
+
+ Numero de Ocorrencias da palavra "this": 44
+
+ Numero de Ocorrencias da palavra "works": 32
+
+ Numero de Ocorrencias da palavra "depois": 31
+
+ Numero de Ocorrencias da palavra "então": 28
+
+ Numero de Ocorrencias da palavra "electronic": 27
+
+ Numero de Ocorrencias da palavra "essa": 27
+
+ Numero de Ocorrencias da palavra "gutenberg": 26
+
+ Numero de Ocorrencias da palavra "tinha": 26
+
+ Numero de Ocorrencias da palavra "annos": 26
+
+ Numero de Ocorrencias da palavra "ainda": 25
+
+ Numero de Ocorrencias da palavra "romance": 25
+
+ Numero de Ocorrencias da palavra "elle": 25
+
+ Numero de Ocorrencias da palavra "havia": 22
+
+ Numero de Ocorrencias da palavra "foundation": 22
+
+ Numero de Ocorrencias da palavra "tempo": 21
+
+ Numero de Ocorrencias da palavra "espirito": 21
+
+ Numero de Ocorrencias da palavra "onde": 20
+
+ Numero de Ocorrencias da palavra "terms": 20
+
+ Numero de Ocorrencias da palavra "quando": 20
+
+ Numero de Ocorrencias da palavra "livro": 19
+
+ Numero de Ocorrencias da palavra "esse": 19
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "litteraria": 18
+
+ Numero de Ocorrencias da palavra "anno": 18
+
+ Numero de Ocorrencias da palavra "meus": 18
+
+ Numero de Ocorrencias da palavra "agreement": 18
+
+ Numero de Ocorrencias da palavra "qual": 17
+
+ Numero de Ocorrencias da palavra "from": 17
+
+ Numero de Ocorrencias da palavra "pela": 17
+
+ Numero de Ocorrencias da palavra "seus": 16
+
+ Numero de Ocorrencias da palavra "states": 15
+
+ Numero de Ocorrencias da palavra "nossa": 15
+
+ Numero de Ocorrencias da palavra "that": 15
+
+ Numero de Ocorrencias da palavra "hoje": 15
+
+ Numero de Ocorrencias da palavra "donations": 15
+
+ Numero de Ocorrencias da palavra "alencar": 14
+
+ Numero de Ocorrencias da palavra "casa": 14
+
+ Numero de Ocorrencias da palavra "primeiro": 14
+
+ Numero de Ocorrencias da palavra "escriptor": 14
+
+ Numero de Ocorrencias da palavra "license": 14
+
+ Numero de Ocorrencias da palavra "other": 14
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 95
+
+ Numero de Ocorrencias da palavra "mais": 53
+
+ Numero de Ocorrencias da palavra "como": 52
+
+ Numero de Ocorrencias da palavra "minha": 45
+
+ Numero de Ocorrencias da palavra "depois": 31
+
+ Numero de Ocorrencias da palavra "entao": 28
+
+ Numero de Ocorrencias da palavra "essa": 27
+
+ Numero de Ocorrencias da palavra "tinha": 26
+
+ Numero de Ocorrencias da palavra "annos": 26
+
+ Numero de Ocorrencias da palavra "romance": 25
+
+ Numero de Ocorrencias da palavra "elle": 25
+
+ Numero de Ocorrencias da palavra "ainda": 25
+
+ Numero de Ocorrencias da palavra "havia": 22
+
+ Numero de Ocorrencias da palavra "tempo": 21
+
+ Numero de Ocorrencias da palavra "espirito": 21
+
+ Numero de Ocorrencias da palavra "quando": 20
+
+ Numero de Ocorrencias da palavra "onde": 20
+
+ Numero de Ocorrencias da palavra "esse": 19
+
+ Numero de Ocorrencias da palavra "livro": 19
+
+ Numero de Ocorrencias da palavra "litteraria": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "anno": 18
+
+ Numero de Ocorrencias da palavra "meus": 18
+
+ Numero de Ocorrencias da palavra "qual": 17
+
+ Numero de Ocorrencias da palavra "pela": 17
+
+ Numero de Ocorrencias da palavra "porem": 17
+
+ Numero de Ocorrencias da palavra "seus": 16
+
+ Numero de Ocorrencias da palavra "nossa": 15
+
+ Numero de Ocorrencias da palavra "hoje": 15
+
+ Numero de Ocorrencias da palavra "primeiro": 14
+
+ Numero de Ocorrencias da palavra "escriptor": 14
+
+ Numero de Ocorrencias da palavra "casa": 14
+
+ Numero de Ocorrencias da palavra "classe": 13
+
+ Numero de Ocorrencias da palavra "esta": 13
+
+ Numero de Ocorrencias da palavra "parte": 13
+
+ Numero de Ocorrencias da palavra "alencar": 13
+
+ Numero de Ocorrencias da palavra "outra": 12
+
+ Numero de Ocorrencias da palavra "amigo": 12
+
+ Numero de Ocorrencias da palavra "nome": 12
+
+ Numero de Ocorrencias da palavra "guarany": 12
+
+ Numero de Ocorrencias da palavra "suas": 12
+
+ Numero de Ocorrencias da palavra "pois": 12
+
+ Numero de Ocorrencias da palavra "dois": 12
+
+ Numero de Ocorrencias da palavra "imprensa": 11
+
+ Numero de Ocorrencias da palavra "assim": 11
+
+ Numero de Ocorrencias da palavra "folha": 11
+
+ Numero de Ocorrencias da palavra "litteratura": 11
+
+ Numero de Ocorrencias da palavra "outros": 11
+
+ Numero de Ocorrencias da palavra "antes": 11
+
+ Numero de Ocorrencias da palavra "primeira": 11
+---------------------------------------------------------------------------

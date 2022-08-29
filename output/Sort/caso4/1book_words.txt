@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 436
+
+ Numero de Ocorrencias da palavra "como": 393
+
+ Numero de Ocorrencias da palavra "não": 367
+
+ Numero de Ocorrencias da palavra "mais": 266
+
+ Numero de Ocorrencias da palavra "n’um": 170
+
+ Numero de Ocorrencias da palavra "elle": 149
+
+ Numero de Ocorrencias da palavra "tinha": 138
+
+ Numero de Ocorrencias da palavra "sobre": 127
+
+ Numero de Ocorrencias da palavra "olhos": 123
+
+ Numero de Ocorrencias da palavra "pela": 122
+
+ Numero de Ocorrencias da palavra "toda": 116
+
+ Numero de Ocorrencias da palavra "n’uma": 115
+
+ Numero de Ocorrencias da palavra "ella": 109
+
+ Numero de Ocorrencias da palavra "tudo": 104
+
+ Numero de Ocorrencias da palavra "tão": 99
+
+ Numero de Ocorrencias da palavra "mesmo": 97
+
+ Numero de Ocorrencias da palavra "seus": 95
+
+ Numero de Ocorrencias da palavra "entre": 95
+
+ Numero de Ocorrencias da palavra "onde": 95
+
+ Numero de Ocorrencias da palavra "grande": 94
+
+ Numero de Ocorrencias da palavra "muito": 92
+
+ Numero de Ocorrencias da palavra "noite": 91
+
+ Numero de Ocorrencias da palavra "então": 90
+
+ Numero de Ocorrencias da palavra "todos": 90
+
+ Numero de Ocorrencias da palavra "quando": 89
+
+ Numero de Ocorrencias da palavra "todo": 88
+
+ Numero de Ocorrencias da palavra "arthur": 86
+
+ Numero de Ocorrencias da palavra "quem": 86
+
+ Numero de Ocorrencias da palavra "disse": 83
+
+ Numero de Ocorrencias da palavra "cabeça": 82
+
+ Numero de Ocorrencias da palavra "homem": 81
+
+ Numero de Ocorrencias da palavra "vida": 81
+
+ Numero de Ocorrencias da palavra "vezes": 79
+
+ Numero de Ocorrencias da palavra "pelo": 78
+
+ Numero de Ocorrencias da palavra "assim": 74
+
+ Numero de Ocorrencias da palavra "pelos": 72
+
+ Numero de Ocorrencias da palavra "velho": 72
+
+ Numero de Ocorrencias da palavra "sempre": 72
+
+ Numero de Ocorrencias da palavra "pobre": 71
+
+ Numero de Ocorrencias da palavra "casa": 71
+
+ Numero de Ocorrencias da palavra "grandes": 69
+
+ Numero de Ocorrencias da palavra "tempo": 69
+
+ Numero de Ocorrencias da palavra "cada": 68
+
+ Numero de Ocorrencias da palavra "ainda": 68
+
+ Numero de Ocorrencias da palavra "albano": 68
+
+ Numero de Ocorrencias da palavra "mãos": 66
+
+ Numero de Ocorrencias da palavra "essa": 65
+
+ Numero de Ocorrencias da palavra "dias": 65
+
+ Numero de Ocorrencias da palavra "suas": 63
+
+ Numero de Ocorrencias da palavra "judith": 61
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 436
+
+ Numero de Ocorrencias da palavra "como": 393
+
+ Numero de Ocorrencias da palavra "não": 367
+
+ Numero de Ocorrencias da palavra "mais": 266
+
+ Numero de Ocorrencias da palavra "n’um": 170
+
+ Numero de Ocorrencias da palavra "elle": 149
+
+ Numero de Ocorrencias da palavra "tinha": 138
+
+ Numero de Ocorrencias da palavra "sobre": 127
+
+ Numero de Ocorrencias da palavra "olhos": 123
+
+ Numero de Ocorrencias da palavra "pela": 122
+
+ Numero de Ocorrencias da palavra "toda": 116
+
+ Numero de Ocorrencias da palavra "n’uma": 115
+
+ Numero de Ocorrencias da palavra "ella": 109
+
+ Numero de Ocorrencias da palavra "tudo": 104
+
+ Numero de Ocorrencias da palavra "tão": 99
+
+ Numero de Ocorrencias da palavra "mesmo": 97
+
+ Numero de Ocorrencias da palavra "seus": 95
+
+ Numero de Ocorrencias da palavra "entre": 95
+
+ Numero de Ocorrencias da palavra "onde": 95
+
+ Numero de Ocorrencias da palavra "grande": 94
+
+ Numero de Ocorrencias da palavra "muito": 92
+
+ Numero de Ocorrencias da palavra "noite": 91
+
+ Numero de Ocorrencias da palavra "então": 90
+
+ Numero de Ocorrencias da palavra "todos": 90
+
+ Numero de Ocorrencias da palavra "quando": 89
+
+ Numero de Ocorrencias da palavra "todo": 88
+
+ Numero de Ocorrencias da palavra "arthur": 86
+
+ Numero de Ocorrencias da palavra "quem": 86
+
+ Numero de Ocorrencias da palavra "disse": 83
+
+ Numero de Ocorrencias da palavra "cabeça": 82
+
+ Numero de Ocorrencias da palavra "homem": 81
+
+ Numero de Ocorrencias da palavra "vida": 81
+
+ Numero de Ocorrencias da palavra "vezes": 79
+
+ Numero de Ocorrencias da palavra "pelo": 78
+
+ Numero de Ocorrencias da palavra "assim": 74
+
+ Numero de Ocorrencias da palavra "pelos": 72
+
+ Numero de Ocorrencias da palavra "velho": 72
+
+ Numero de Ocorrencias da palavra "sempre": 72
+
+ Numero de Ocorrencias da palavra "pobre": 71
+
+ Numero de Ocorrencias da palavra "casa": 71
+
+ Numero de Ocorrencias da palavra "grandes": 69
+
+ Numero de Ocorrencias da palavra "tempo": 69
+
+ Numero de Ocorrencias da palavra "cada": 68
+
+ Numero de Ocorrencias da palavra "ainda": 68
+
+ Numero de Ocorrencias da palavra "albano": 68
+
+ Numero de Ocorrencias da palavra "mãos": 66
+
+ Numero de Ocorrencias da palavra "essa": 65
+
+ Numero de Ocorrencias da palavra "dias": 65
+
+ Numero de Ocorrencias da palavra "suas": 63
+
+ Numero de Ocorrencias da palavra "judith": 61
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 439
+
+ Numero de Ocorrencias da palavra "como": 399
+
+ Numero de Ocorrencias da palavra "mais": 269
+
+ Numero de Ocorrencias da palavra "elle": 149
+
+ Numero de Ocorrencias da palavra "tinha": 139
+
+ Numero de Ocorrencias da palavra "sobre": 127
+
+ Numero de Ocorrencias da palavra "olhos": 123
+
+ Numero de Ocorrencias da palavra "pela": 122
+
+ Numero de Ocorrencias da palavra "toda": 116
+
+ Numero de Ocorrencias da palavra "numa": 115
+
+ Numero de Ocorrencias da palavra "ella": 109
+
+ Numero de Ocorrencias da palavra "tudo": 105
+
+ Numero de Ocorrencias da palavra "mesmo": 97
+
+ Numero de Ocorrencias da palavra "muito": 96
+
+ Numero de Ocorrencias da palavra "entao": 96
+
+ Numero de Ocorrencias da palavra "seus": 95
+
+ Numero de Ocorrencias da palavra "onde": 95
+
+ Numero de Ocorrencias da palavra "entre": 95
+
+ Numero de Ocorrencias da palavra "grande": 94
+
+ Numero de Ocorrencias da palavra "quando": 94
+
+ Numero de Ocorrencias da palavra "noite": 91
+
+ Numero de Ocorrencias da palavra "quem": 90
+
+ Numero de Ocorrencias da palavra "todos": 90
+
+ Numero de Ocorrencias da palavra "todo": 88
+
+ Numero de Ocorrencias da palavra "arthur": 86
+
+ Numero de Ocorrencias da palavra "disse": 83
+
+ Numero de Ocorrencias da palavra "cabeca": 82
+
+ Numero de Ocorrencias da palavra "homem": 82
+
+ Numero de Ocorrencias da palavra "vida": 81
+
+ Numero de Ocorrencias da palavra "vezes": 79
+
+ Numero de Ocorrencias da palavra "pelo": 78
+
+ Numero de Ocorrencias da palavra "assim": 75
+
+ Numero de Ocorrencias da palavra "sempre": 73
+
+ Numero de Ocorrencias da palavra "pelos": 72
+
+ Numero de Ocorrencias da palavra "pobre": 72
+
+ Numero de Ocorrencias da palavra "velho": 72
+
+ Numero de Ocorrencias da palavra "casa": 71
+
+ Numero de Ocorrencias da palavra "esta": 70
+
+ Numero de Ocorrencias da palavra "grandes": 69
+
+ Numero de Ocorrencias da palavra "tempo": 69
+
+ Numero de Ocorrencias da palavra "albano": 68
+
+ Numero de Ocorrencias da palavra "cada": 68
+
+ Numero de Ocorrencias da palavra "ainda": 68
+
+ Numero de Ocorrencias da palavra "essa": 67
+
+ Numero de Ocorrencias da palavra "maos": 66
+
+ Numero de Ocorrencias da palavra "dias": 65
+
+ Numero de Ocorrencias da palavra "suas": 63
+
+ Numero de Ocorrencias da palavra "flores": 62
+
+ Numero de Ocorrencias da palavra "judith": 61
+
+ Numero de Ocorrencias da palavra "pelas": 58
+---------------------------------------------------------------------------

@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 225
+
+ Numero de Ocorrencias da palavra "minha": 126
+
+ Numero de Ocorrencias da palavra "para": 126
+
+ Numero de Ocorrencias da palavra "como": 99
+
+ Numero de Ocorrencias da palavra "tinha": 77
+
+ Numero de Ocorrencias da palavra "ella": 76
+
+ Numero de Ocorrencias da palavra "quando": 59
+
+ Numero de Ocorrencias da palavra "mais": 48
+
+ Numero de Ocorrencias da palavra "sobre": 47
+
+ Numero de Ocorrencias da palavra "amor": 44
+
+ Numero de Ocorrencias da palavra "ainda": 40
+
+ Numero de Ocorrencias da palavra "estava": 38
+
+ Numero de Ocorrencias da palavra "tão": 38
+
+ Numero de Ocorrencias da palavra "essa": 32
+
+ Numero de Ocorrencias da palavra "porque": 32
+
+ Numero de Ocorrencias da palavra "olhos": 31
+
+ Numero de Ocorrencias da palavra "isto": 29
+
+ Numero de Ocorrencias da palavra "esse": 29
+
+ Numero de Ocorrencias da palavra "vida": 28
+
+ Numero de Ocorrencias da palavra "mesmo": 26
+
+ Numero de Ocorrencias da palavra "tempo": 26
+
+ Numero de Ocorrencias da palavra "prima": 26
+
+ Numero de Ocorrencias da palavra "homem": 25
+
+ Numero de Ocorrencias da palavra "mulher": 25
+
+ Numero de Ocorrencias da palavra "dias": 25
+
+ Numero de Ocorrencias da palavra "noite": 24
+
+ Numero de Ocorrencias da palavra "horas": 24
+
+ Numero de Ocorrencias da palavra "amigo": 23
+
+ Numero de Ocorrencias da palavra "suas": 23
+
+ Numero de Ocorrencias da palavra "havia": 23
+
+ Numero de Ocorrencias da palavra "pouco": 23
+
+ Numero de Ocorrencias da palavra "mãi": 23
+
+ Numero de Ocorrencias da palavra "meus": 22
+
+ Numero de Ocorrencias da palavra "assim": 22
+
+ Numero de Ocorrencias da palavra "seus": 22
+
+ Numero de Ocorrencias da palavra "apenas": 21
+
+ Numero de Ocorrencias da palavra "depois": 21
+
+ Numero de Ocorrencias da palavra "onde": 21
+
+ Numero de Ocorrencias da palavra "tudo": 21
+
+ Numero de Ocorrencias da palavra "deos": 21
+
+ Numero de Ocorrencias da palavra "toda": 20
+
+ Numero de Ocorrencias da palavra "sempre": 20
+
+ Numero de Ocorrencias da palavra "coração": 20
+
+ Numero de Ocorrencias da palavra "todos": 19
+
+ Numero de Ocorrencias da palavra "sombra": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "momento": 18
+
+ Numero de Ocorrencias da palavra "talvez": 18
+
+ Numero de Ocorrencias da palavra "pela": 18
+
+ Numero de Ocorrencias da palavra "menos": 17
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 225
+
+ Numero de Ocorrencias da palavra "minha": 126
+
+ Numero de Ocorrencias da palavra "para": 126
+
+ Numero de Ocorrencias da palavra "como": 99
+
+ Numero de Ocorrencias da palavra "tinha": 77
+
+ Numero de Ocorrencias da palavra "ella": 76
+
+ Numero de Ocorrencias da palavra "quando": 59
+
+ Numero de Ocorrencias da palavra "mais": 48
+
+ Numero de Ocorrencias da palavra "sobre": 47
+
+ Numero de Ocorrencias da palavra "amor": 44
+
+ Numero de Ocorrencias da palavra "ainda": 40
+
+ Numero de Ocorrencias da palavra "estava": 38
+
+ Numero de Ocorrencias da palavra "tão": 38
+
+ Numero de Ocorrencias da palavra "essa": 32
+
+ Numero de Ocorrencias da palavra "porque": 32
+
+ Numero de Ocorrencias da palavra "olhos": 31
+
+ Numero de Ocorrencias da palavra "isto": 29
+
+ Numero de Ocorrencias da palavra "esse": 29
+
+ Numero de Ocorrencias da palavra "vida": 28
+
+ Numero de Ocorrencias da palavra "mesmo": 26
+
+ Numero de Ocorrencias da palavra "tempo": 26
+
+ Numero de Ocorrencias da palavra "prima": 26
+
+ Numero de Ocorrencias da palavra "homem": 25
+
+ Numero de Ocorrencias da palavra "mulher": 25
+
+ Numero de Ocorrencias da palavra "dias": 25
+
+ Numero de Ocorrencias da palavra "noite": 24
+
+ Numero de Ocorrencias da palavra "horas": 24
+
+ Numero de Ocorrencias da palavra "amigo": 23
+
+ Numero de Ocorrencias da palavra "suas": 23
+
+ Numero de Ocorrencias da palavra "havia": 23
+
+ Numero de Ocorrencias da palavra "pouco": 23
+
+ Numero de Ocorrencias da palavra "mãi": 23
+
+ Numero de Ocorrencias da palavra "meus": 22
+
+ Numero de Ocorrencias da palavra "assim": 22
+
+ Numero de Ocorrencias da palavra "seus": 22
+
+ Numero de Ocorrencias da palavra "apenas": 21
+
+ Numero de Ocorrencias da palavra "depois": 21
+
+ Numero de Ocorrencias da palavra "onde": 21
+
+ Numero de Ocorrencias da palavra "tudo": 21
+
+ Numero de Ocorrencias da palavra "deos": 21
+
+ Numero de Ocorrencias da palavra "toda": 20
+
+ Numero de Ocorrencias da palavra "sempre": 20
+
+ Numero de Ocorrencias da palavra "coração": 20
+
+ Numero de Ocorrencias da palavra "todos": 19
+
+ Numero de Ocorrencias da palavra "sombra": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "momento": 18
+
+ Numero de Ocorrencias da palavra "talvez": 18
+
+ Numero de Ocorrencias da palavra "pela": 18
+
+ Numero de Ocorrencias da palavra "menos": 17
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "para": 126
+
+ Numero de Ocorrencias da palavra "minha": 126
+
+ Numero de Ocorrencias da palavra "como": 99
+
+ Numero de Ocorrencias da palavra "tinha": 77
+
+ Numero de Ocorrencias da palavra "ella": 76
+
+ Numero de Ocorrencias da palavra "quando": 59
+
+ Numero de Ocorrencias da palavra "mais": 49
+
+ Numero de Ocorrencias da palavra "sobre": 47
+
+ Numero de Ocorrencias da palavra "amor": 44
+
+ Numero de Ocorrencias da palavra "ainda": 40
+
+ Numero de Ocorrencias da palavra "estava": 38
+
+ Numero de Ocorrencias da palavra "porque": 32
+
+ Numero de Ocorrencias da palavra "essa": 32
+
+ Numero de Ocorrencias da palavra "olhos": 31
+
+ Numero de Ocorrencias da palavra "isto": 29
+
+ Numero de Ocorrencias da palavra "esse": 29
+
+ Numero de Ocorrencias da palavra "vida": 28
+
+ Numero de Ocorrencias da palavra "tempo": 26
+
+ Numero de Ocorrencias da palavra "mesmo": 26
+
+ Numero de Ocorrencias da palavra "prima": 26
+
+ Numero de Ocorrencias da palavra "homem": 25
+
+ Numero de Ocorrencias da palavra "esta": 25
+
+ Numero de Ocorrencias da palavra "dias": 25
+
+ Numero de Ocorrencias da palavra "mulher": 25
+
+ Numero de Ocorrencias da palavra "noite": 24
+
+ Numero de Ocorrencias da palavra "horas": 24
+
+ Numero de Ocorrencias da palavra "pouco": 23
+
+ Numero de Ocorrencias da palavra "amigo": 23
+
+ Numero de Ocorrencias da palavra "havia": 23
+
+ Numero de Ocorrencias da palavra "suas": 23
+
+ Numero de Ocorrencias da palavra "assim": 22
+
+ Numero de Ocorrencias da palavra "meus": 22
+
+ Numero de Ocorrencias da palavra "seus": 22
+
+ Numero de Ocorrencias da palavra "depois": 21
+
+ Numero de Ocorrencias da palavra "apenas": 21
+
+ Numero de Ocorrencias da palavra "deos": 21
+
+ Numero de Ocorrencias da palavra "tudo": 21
+
+ Numero de Ocorrencias da palavra "onde": 21
+
+ Numero de Ocorrencias da palavra "toda": 20
+
+ Numero de Ocorrencias da palavra "coracao": 20
+
+ Numero de Ocorrencias da palavra "sempre": 20
+
+ Numero de Ocorrencias da palavra "todos": 19
+
+ Numero de Ocorrencias da palavra "momento": 18
+
+ Numero de Ocorrencias da palavra "pelo": 18
+
+ Numero de Ocorrencias da palavra "sombra": 18
+
+ Numero de Ocorrencias da palavra "pela": 18
+
+ Numero de Ocorrencias da palavra "talvez": 18
+
+ Numero de Ocorrencias da palavra "menos": 17
+
+ Numero de Ocorrencias da palavra "todo": 17
+
+ Numero de Ocorrencias da palavra "fosse": 17
+---------------------------------------------------------------------------

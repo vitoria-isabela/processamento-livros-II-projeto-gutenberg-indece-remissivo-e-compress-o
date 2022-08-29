@@ -1,0 +1,312 @@
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 86
+
+ Numero de Ocorrencias da palavra "project": 84
+
+ Numero de Ocorrencias da palavra "gutenbergtm": 56
+
+ Numero de Ocorrencias da palavra "como": 55
+
+ Numero de Ocorrencias da palavra "work": 45
+
+ Numero de Ocorrencias da palavra "with": 45
+
+ Numero de Ocorrencias da palavra "this": 44
+
+ Numero de Ocorrencias da palavra "works": 32
+
+ Numero de Ocorrencias da palavra "lima": 32
+
+ Numero de Ocorrencias da palavra "jaime": 27
+
+ Numero de Ocorrencias da palavra "electronic": 27
+
+ Numero de Ocorrencias da palavra "gutenberg": 26
+
+ Numero de Ocorrencias da palavra "mais": 25
+
+ Numero de Ocorrencias da palavra "para": 25
+
+ Numero de Ocorrencias da palavra "magalhães": 24
+
+ Numero de Ocorrencias da palavra "foundation": 22
+
+ Numero de Ocorrencias da palavra "terms": 20
+
+ Numero de Ocorrencias da palavra "verdade": 18
+
+ Numero de Ocorrencias da palavra "agreement": 18
+
+ Numero de Ocorrencias da palavra "sempre": 17
+
+ Numero de Ocorrencias da palavra "assim": 17
+
+ Numero de Ocorrencias da palavra "arte": 16
+
+ Numero de Ocorrencias da palavra "that": 15
+
+ Numero de Ocorrencias da palavra "donations": 15
+
+ Numero de Ocorrencias da palavra "states": 15
+
+ Numero de Ocorrencias da palavra "from": 15
+
+ Numero de Ocorrencias da palavra "quem": 15
+
+ Numero de Ocorrencias da palavra "todos": 15
+
+ Numero de Ocorrencias da palavra "other": 14
+
+ Numero de Ocorrencias da palavra "license": 14
+
+ Numero de Ocorrencias da palavra "tão": 14
+
+ Numero de Ocorrencias da palavra "porque": 14
+
+ Numero de Ocorrencias da palavra "full": 13
+
+ Numero de Ocorrencias da palavra "vezes": 13
+
+ Numero de Ocorrencias da palavra "copyright": 13
+
+ Numero de Ocorrencias da palavra "muito": 13
+
+ Numero de Ocorrencias da palavra "toda": 13
+
+ Numero de Ocorrencias da palavra "archive": 13
+
+ Numero de Ocorrencias da palavra "literary": 13
+
+ Numero de Ocorrencias da palavra "vida": 13
+
+ Numero de Ocorrencias da palavra "ainda": 13
+
+ Numero de Ocorrencias da palavra "obra": 12
+
+ Numero de Ocorrencias da palavra "livre": 12
+
+ Numero de Ocorrencias da palavra "paragraph": 11
+
+ Numero de Ocorrencias da palavra "liberdade": 11
+
+ Numero de Ocorrencias da palavra "póde": 11
+
+ Numero de Ocorrencias da palavra "conciencia": 11
+
+ Numero de Ocorrencias da palavra "espirito": 11
+
+ Numero de Ocorrencias da palavra "copy": 11
+
+ Numero de Ocorrencias da palavra "refund": 10
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "não": 86
+
+ Numero de Ocorrencias da palavra "project": 84
+
+ Numero de Ocorrencias da palavra "gutenbergtm": 56
+
+ Numero de Ocorrencias da palavra "como": 55
+
+ Numero de Ocorrencias da palavra "work": 45
+
+ Numero de Ocorrencias da palavra "with": 45
+
+ Numero de Ocorrencias da palavra "this": 44
+
+ Numero de Ocorrencias da palavra "works": 32
+
+ Numero de Ocorrencias da palavra "lima": 32
+
+ Numero de Ocorrencias da palavra "jaime": 27
+
+ Numero de Ocorrencias da palavra "electronic": 27
+
+ Numero de Ocorrencias da palavra "gutenberg": 26
+
+ Numero de Ocorrencias da palavra "mais": 25
+
+ Numero de Ocorrencias da palavra "para": 25
+
+ Numero de Ocorrencias da palavra "magalhães": 24
+
+ Numero de Ocorrencias da palavra "foundation": 22
+
+ Numero de Ocorrencias da palavra "terms": 20
+
+ Numero de Ocorrencias da palavra "verdade": 18
+
+ Numero de Ocorrencias da palavra "agreement": 18
+
+ Numero de Ocorrencias da palavra "sempre": 17
+
+ Numero de Ocorrencias da palavra "assim": 17
+
+ Numero de Ocorrencias da palavra "arte": 16
+
+ Numero de Ocorrencias da palavra "that": 15
+
+ Numero de Ocorrencias da palavra "donations": 15
+
+ Numero de Ocorrencias da palavra "states": 15
+
+ Numero de Ocorrencias da palavra "from": 15
+
+ Numero de Ocorrencias da palavra "quem": 15
+
+ Numero de Ocorrencias da palavra "todos": 15
+
+ Numero de Ocorrencias da palavra "other": 14
+
+ Numero de Ocorrencias da palavra "license": 14
+
+ Numero de Ocorrencias da palavra "tão": 14
+
+ Numero de Ocorrencias da palavra "porque": 14
+
+ Numero de Ocorrencias da palavra "full": 13
+
+ Numero de Ocorrencias da palavra "vezes": 13
+
+ Numero de Ocorrencias da palavra "copyright": 13
+
+ Numero de Ocorrencias da palavra "muito": 13
+
+ Numero de Ocorrencias da palavra "toda": 13
+
+ Numero de Ocorrencias da palavra "archive": 13
+
+ Numero de Ocorrencias da palavra "literary": 13
+
+ Numero de Ocorrencias da palavra "vida": 13
+
+ Numero de Ocorrencias da palavra "ainda": 13
+
+ Numero de Ocorrencias da palavra "obra": 12
+
+ Numero de Ocorrencias da palavra "livre": 12
+
+ Numero de Ocorrencias da palavra "paragraph": 11
+
+ Numero de Ocorrencias da palavra "liberdade": 11
+
+ Numero de Ocorrencias da palavra "póde": 11
+
+ Numero de Ocorrencias da palavra "conciencia": 11
+
+ Numero de Ocorrencias da palavra "espirito": 11
+
+ Numero de Ocorrencias da palavra "copy": 11
+
+ Numero de Ocorrencias da palavra "refund": 10
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+IMPRIMINDO AS 50 PALAVRAS DE MAIORES OCORRENCIAS DE CADA VETOR ORDENADO: 
+---------------------------------------------------------------------------
+
+ Numero de Ocorrencias da palavra "como": 55
+
+ Numero de Ocorrencias da palavra "lima": 30
+
+ Numero de Ocorrencias da palavra "magalhaes": 26
+
+ Numero de Ocorrencias da palavra "mais": 25
+
+ Numero de Ocorrencias da palavra "para": 25
+
+ Numero de Ocorrencias da palavra "jaime": 25
+
+ Numero de Ocorrencias da palavra "verdade": 18
+
+ Numero de Ocorrencias da palavra "sempre": 17
+
+ Numero de Ocorrencias da palavra "assim": 17
+
+ Numero de Ocorrencias da palavra "arte": 16
+
+ Numero de Ocorrencias da palavra "todos": 15
+
+ Numero de Ocorrencias da palavra "quem": 15
+
+ Numero de Ocorrencias da palavra "porque": 14
+
+ Numero de Ocorrencias da palavra "vezes": 13
+
+ Numero de Ocorrencias da palavra "ainda": 13
+
+ Numero de Ocorrencias da palavra "muito": 13
+
+ Numero de Ocorrencias da palavra "vida": 13
+
+ Numero de Ocorrencias da palavra "toda": 13
+
+ Numero de Ocorrencias da palavra "livre": 12
+
+ Numero de Ocorrencias da palavra "pode": 12
+
+ Numero de Ocorrencias da palavra "obra": 12
+
+ Numero de Ocorrencias da palavra "jose": 11
+
+ Numero de Ocorrencias da palavra "liberdade": 11
+
+ Numero de Ocorrencias da palavra "espirito": 11
+
+ Numero de Ocorrencias da palavra "conciencia": 11
+
+ Numero de Ocorrencias da palavra "moral": 10
+
+ Numero de Ocorrencias da palavra "dentro": 10
+
+ Numero de Ocorrencias da palavra "alma": 10
+
+ Numero de Ocorrencias da palavra "esta": 10
+
+ Numero de Ocorrencias da palavra "nosso": 10
+
+ Numero de Ocorrencias da palavra "critica": 10
+
+ Numero de Ocorrencias da palavra "nunca": 10
+
+ Numero de Ocorrencias da palavra "mesmo": 9
+
+ Numero de Ocorrencias da palavra "justica": 9
+
+ Numero de Ocorrencias da palavra "maior": 9
+
+ Numero de Ocorrencias da palavra "tudo": 9
+
+ Numero de Ocorrencias da palavra "este": 9
+
+ Numero de Ocorrencias da palavra "pela": 9
+
+ Numero de Ocorrencias da palavra "todo": 8
+
+ Numero de Ocorrencias da palavra "antonio": 8
+
+ Numero de Ocorrencias da palavra "republica": 8
+
+ Numero de Ocorrencias da palavra "simples": 8
+
+ Numero de Ocorrencias da palavra "mental": 8
+
+ Numero de Ocorrencias da palavra "nossa": 8
+
+ Numero de Ocorrencias da palavra "meio": 8
+
+ Numero de Ocorrencias da palavra "portugal": 8
+
+ Numero de Ocorrencias da palavra "primeiro": 7
+
+ Numero de Ocorrencias da palavra "esse": 7
+
+ Numero de Ocorrencias da palavra "estilo": 7
+
+ Numero de Ocorrencias da palavra "grande": 7
+---------------------------------------------------------------------------
